@@ -2,3 +2,6 @@ Capitulo 0: Introduccion a aentronos de desarrollo.
 Capitulo 1: Respositorios de Código
 Capitulo 2: UML
 ● Capítulo 3: IDE de desarrollo más comunes
+  - Introducción a Git
+  - Repositorios locales y remotos
+  - Comandos básicos de Git
